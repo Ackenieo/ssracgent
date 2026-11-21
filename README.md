@@ -37,3 +37,5 @@ Read the numbered documents in order; each builds only on the ones before it.
 ## License
 
 [MIT](LICENSE)
+
+![dsh-superagent: a proactive coding agent for one GitHub repository](assets/banner.svg)
